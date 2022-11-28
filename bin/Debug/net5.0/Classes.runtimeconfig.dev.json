@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lunav\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lunav\\.nuget\\packages"
+    ]
+  }
+}
